@@ -1,2 +1,3 @@
-# thinking-in-swiftui-code
-Accompanying code for the book Thinking in SwiftUI
+# Thinking in SwiftUI: Accompanying Code
+
+Accompanying code for our book [Thinking in SwiftUI](http://objc.io/books/thinking-in-swiftui)
